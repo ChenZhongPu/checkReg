@@ -1,0 +1,21 @@
+{
+  "name":"CSDN",
+  "date":"1999",
+  "scale":"千万",
+  "description":"CSDN创立于1999年，是中国最大的IT社区和服务平台。",
+  "url":"www.csdn.net",
+  "icon":"http://www.csdn.net/css/logo.png",
+  "method":"get",
+  "request":{
+    "mailUrl":"http://passport.csdn.net/account/register?action=validateEmail&email={}",
+    "phoneUrl":"http://passport.csdn.net/account/register?action=validateEmail&email={}"
+  },
+  "postField":{
+    "mailField":"",
+    "phoneField":""
+  },
+  "yesCode":{
+    "mailCode":"true",
+    "phoneCode":"true"
+  }
+}

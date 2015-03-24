@@ -1,0 +1,21 @@
+{
+  "name":"百合",
+  "date":"2005",
+  "scale":"百万",
+  "description":"百合网是中国第一家实名制婚恋服务商，以帮助亿万中国人拥有幸福的婚姻和家庭为己任。",
+  "url":"www.baihe.com",
+  "icon":"http://images6.baihe.com/icon/logo_home.jpg",
+  "method":"get",
+  "request":{
+    "mailUrl":"http://my.baihe.com/register/emailCheckForXs?email={}",
+    "phoneUrl":"http://my.baihe.com/register/emailCheckForXs?email={}"
+  },
+  "postField":{
+    "mailField":"",
+    "phoneField":""
+  },
+  "yesCode":{
+    "mailCode":"{\"state\":0,",
+    "phoneCode":"{\"state\":0,"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name":"迅雷",
+  "date":"2003",
+  "scale":"亿",
+  "description":"迅雷是由中国深圳市迅雷网络技术有限公司开发的一款下载软件，可以进行超文本传输协议、文件传输协议、BitTorrent协议及eDonkey网络的下载，为中国用户最多的下载器之一。",
+  "url":"www.kankan.com",
+  "icon":"http://i.xunlei.com/v2.5/img/l_logo.jpg",
+  "method":"get",
+  "request":{
+    "mailUrl":"https://zhuce.xunlei.com/register?m=check_mail&mail={}&cache=1427173362314&jsoncallback=jsonp1427173334747",
+    "phoneUrl":"https://zhuce.xunlei.com/register?m=check_mail&mail={}&cache=1427173362314&jsoncallback=jsonp1427173334747"
+  },
+  "postField":{
+    "mailField":"",
+    "phoneField":""
+  },
+  "yesCode":{
+    "mailCode":"jsonp1427173334747({\"result\":1302})",
+    "phoneCode":"jsonp1427173334747({\"result\":1303})"
+  }
+}

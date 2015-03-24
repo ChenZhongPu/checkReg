@@ -1,0 +1,21 @@
+{
+  "name":"360",
+  "date":"2005",
+  "scale":"亿",
+  "description":"  奇虎360，(全称奇虎360科技有限公司)(NYSE：QIHU)是中国大陆的一家主营安全相关的互联网公司，由周鸿祎于2005年9月成立",
+  "url":"www.360.com",
+  "icon":"http://i.360.cn/static/img/i360_logo2.png?v=d6ac4.png",
+  "method":"get",
+  "request":{
+    "mailUrl":"",
+    "phoneUrl":"http://login.360.cn/?m=checkmobile&mobile={}"
+  },
+  "postField":{
+    "mailField":"",
+    "phoneField":""
+  },
+  "yesCode":{
+    "mailCode":"",
+    "phoneCode":"checkJsOut({\"errno\":\"30000\""
+  }
+}

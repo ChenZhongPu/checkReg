@@ -1,0 +1,21 @@
+{
+  "name":"当当",
+  "date":"2004",
+  "scale":"千万",
+  "description":"当当网（NYSE：DANG）是北京当当网信息技术有限公司营运的一家中文购物网站。",
+  "url":"www.dangdang.com",
+  "icon":"https://login.dangdang.com/images/ddnewhead_logo.gif",
+  "method":"post",
+  "request":{
+    "mailUrl":"https://login.dangdang.com/p/email_checker.php",
+    "phoneUrl":"https://login.dangdang.com/p/mobile_checker.php"
+  },
+  "postField":{
+    "mailField":"email",
+    "phoneField":"mobile"
+  },
+  "yesCode":{
+    "mailCode":"true",
+    "phoneCode":"true"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name":"AcFun",
+  "date":"2007",
+  "scale":"千万",
+  "description":"AcFun弹幕视频网（正式备案中文名为爱稀饭网，常被简称为AC，A站）是中国大陆的弹幕式视频分享网站之一。",
+  "url":"www.acfun.tv",
+  "icon":"http://static.acfun.mm111.net/dotnet/20130418/project/sanae/style/image/sprite-guide.png",
+  "method":"get",
+  "request":{
+    "mailUrl":"http://www.acfun.tv/username_unique.aspx?username={}",
+    "phoneUrl":""
+  },
+  "postField":{
+    "mailField":"",
+    "phoneField":""
+  },
+  "yesCode":{
+    "mailCode":"false",
+    "phoneCode":""
+  }
+}
