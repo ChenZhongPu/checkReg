@@ -1,4 +1,5 @@
 # checkReg
+here is the test branch, and keep the master clean
 检测一个邮箱或手机号在互联网上的注册情况
 
 部署在 新浪云服务器地址：[checkReg](http://checkreg.sinaapp.com/)
