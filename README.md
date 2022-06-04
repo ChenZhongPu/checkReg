@@ -1,3 +1,5 @@
+![build](https://github.com/ChenZhongPu/checkReg/actions/workflows/build.yml/badge.svg)
+
 # CheckReg
 It can check whether a given email or phone number has been registered in websites.
 
